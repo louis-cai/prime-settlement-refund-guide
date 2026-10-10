@@ -64,6 +64,7 @@ If total accepted funds are less than $1,000,000,000 after March 2027 reconcilia
 ## Official Links & Resources
 
 - **Independent Checker & Timeline Hub**: [https://primesettlementrefund.com](https://primesettlementrefund.com)
+- **Claim Form & Reissue Filing Guide**: [https://primesettlementrefund.com/claim-form.html](https://primesettlementrefund.com/claim-form.html)
 - **Federal Trade Commission (FTC) Refunds**: [ftc.gov/refunds](https://www.ftc.gov/enforcement/refunds)
 - **Report Fraud to FTC**: [reportfraud.ftc.gov](https://reportfraud.ftc.gov)
 - **Official Court Settlement Administrator**: [subscriptionmembershipsettlement.com](https://subscriptionmembershipsettlement.com)
